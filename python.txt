@@ -1,0 +1,6 @@
+#2021/02/03
+#My first python
+text='hello world!'
+print(text)
+user_name='YuWanjiang'
+print(text+"I am"+user_name)
